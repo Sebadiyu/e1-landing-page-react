@@ -1,0 +1,24 @@
+.about {
+    display: flex;
+    flex-direction: column;
+    margin: 20px auto;
+    gap: 20px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    width: 90%;
+    max-width: 1200px;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.about h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.about p {
+    font-size: 1.25em;
+    line-height: 1.6;
+}
